@@ -6,20 +6,17 @@ public class DoubleLinkedList {
 
 
 
-    public static Node push1(Node head_ref, int new_data)
+    public static Node push1(Node head, int newData)
     {
 
-        Node new_node = new Node(new_data);
+        Node newNode = new Node(newData);
 
+        newNode.data = newData;
 
-        new_node.data = new_data;
+        newNode.next = (head);
 
-
-        new_node.next = (head_ref);
-
-
-        (head_ref) = new_node;
-        return head_ref;
+        (head) = newNode;
+        return head;
     }
     public void getData(){
         
@@ -27,5 +24,6 @@ public class DoubleLinkedList {
 
 
     }
+
 
 

@@ -1,16 +1,11 @@
 package Sort;
-
 import LinkedList.Node;
 
-
-public class BurbleLinkedList // Java program to sort a doubly linked list using
+public class BurbleLinkedList
 
 
 {
 
-
-
-    // Function to print nodes in a given linked list
     static void printList( Node start)
     {
         Node temp = start;
@@ -22,40 +17,37 @@ public class BurbleLinkedList // Java program to sort a doubly linked list using
         }
     }
 
-    // Bubble sort the given linked list
     static Node bubbleSort( Node start)
     {
-        int swapped, i;
-        Node ptr1;
-        Node lptr = null;
+        int swapped;
+        Node pointer;
+        Node lpointer = null;
 
-        // Checking for empty list
+
         if (start == null)
             return null;
 
         do
         {
             swapped = 0;
-            ptr1 = start;
+            pointer = start;
 
-            while (ptr1.next != lptr)
+            while (pointer.next != lpointer)
             {
-                if (ptr1.data > ptr1.next.data)
+                if (pointer.data > pointer.next.data)
                 {
-                    int t = ptr1.data;
-                    ptr1.data = ptr1.next.data;
-                    ptr1.next.data = t;
+                    int t = pointer.data;
+                    pointer.data = pointer.next.data;
+                    pointer.next.data = t;
                     swapped = 1;
                 }
-                ptr1 = ptr1.next;
+                pointer = pointer.next;
             }
-            lptr = ptr1;
+            lpointer = pointer;
         }
         while (swapped != 0);
         return start;
     }
-
-    // Driver code
 
 }
 

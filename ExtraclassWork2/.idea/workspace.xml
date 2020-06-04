@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c89f60d4-046c-4a36-8885-5c6da9e4bd01" name="Default Changelist" comment="" />
+    <list default="true" id="c89f60d4-046c-4a36-8885-5c6da9e4bd01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExtraclassWork2/LinkedList/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExtraclassWork2/LinkedList/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/BurbleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/BurbleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/InsertionLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/InsertionLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/SelectionLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/SelectionLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1cpnXc6ie8lPOXJLTX5vjyrcJC0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -113,6 +122,7 @@
       <updated>1591234442311</updated>
       <workItem from="1591234446735" duration="67000" />
       <workItem from="1591234533969" duration="9164000" />
+      <workItem from="1591244190752" duration="1078000" />
     </task>
     <servers />
   </component>
@@ -132,22 +142,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1591234679207" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1591244241059">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1591245445974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591244241059" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1591244241059">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591245445974" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1591245445974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591244241059" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1591244241058">
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591245445974" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1591245445974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591244241058" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1591244241059">
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591245445974" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1591245445974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591244241059" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591245445974" />
     <state x="440" y="115" key="SettingsEditor" timestamp="1591238343550">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

@@ -1,10 +1,5 @@
 package Sort;
-
-
 import LinkedList.Node;
-
-
-
 
 public class InsertionLinkedList
 {
@@ -12,8 +7,6 @@ public class InsertionLinkedList
 
     void insertionSort(Node head)
     {
-
-
         Node current = head;
 
         while (current != null)
@@ -25,15 +18,10 @@ public class InsertionLinkedList
 
             current = next;
         }
-
-        head = sorted;
     }
-
 
     void sortedInsert(Node newnode)
     {
-
-
         if (sorted == null || sorted.data >= newnode.data)
         {
             newnode.next = sorted;
@@ -52,7 +40,6 @@ public class InsertionLinkedList
         }
     }
 
-
     void printlist(Node head)
     {
         while (head != null)
@@ -61,8 +48,5 @@ public class InsertionLinkedList
             head = head.next;
         }
     }
-
-
-
 
 }
