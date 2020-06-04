@@ -32,11 +32,7 @@ class SelectionLinkedListTest {
     @Test
     void testselection() {
 
-        assertEquals(1,d.push2(1));
-        assertEquals(2,d.push2(6));
-        assertEquals(3,d.push2(3));
-        assertEquals(4,d.push2(4));
-        assertEquals(5,d.push2(5));
+
 
 
 
